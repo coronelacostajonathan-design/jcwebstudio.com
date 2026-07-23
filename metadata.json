@@ -1,0 +1,6 @@
+{
+  "name": "JC Web Studio",
+  "description": "Sitio web oficial de JC Web Studio - Agencia de Diseño Web, Menús QR, Tiendas Online y Sistemas Web en Santa Rita, Paraguay. Por Jonathan Coronel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
